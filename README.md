@@ -71,46 +71,43 @@ Apasionado por la arquitectura de software, la creación de aplicaciones de escr
 
 ---
 
-### 🌟 Proyectos Destacados
+### 🌟 Proyectos Públicos & En Desarrollo
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📖 Biblia Desktop</h3>
+      <h3 align="center">🌐 APIs Venezuela</h3>
       <p align="center">
-        Aplicación de escritorio integral y moderna para estudio bíblico y homilético. Funciona 100% offline con más de 31,000 versículos, concordancia Strong léxica en hebreo/griego (14,197 vocablos), referencias cruzadas TSK, generador de tarjetas (Verse Card Studio HD) y editor WYSIWYG con Modo Púlpito.
+        Librería y servicios en Python para la consulta, integración y validación estructurada de formatos y entidades del ecosistema bancario y nacional de Venezuela.
       </p>
       <p align="center">
-        <code>Electron</code> · <code>React</code> · <code>TypeScript</code> · <code>Tailwind</code> · <code>SQLite</code>
+        <code>Python</code> · <code>REST API</code> · <code>JSON</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/SoyJhery/Apis-Venezuela"><b>Ver Repositorio ↗</b></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💼 Gestión de Medicamentos</h3>
+      <h3 align="center">🗺️ Mapa de Venezuela Vectorizado</h3>
       <p align="center">
-        Plataforma web y móvil para el control exhaustivo de inventario, stock crítico, trazabilidad de fármacos y alertas de caducidad con arquitectura modular y experiencia fluida.
+        Representación gráfica interactiva y vectorizada de los estados de Venezuela mediante Raphael.js y SVG para visualización territorial y paneles analíticos.
       </p>
       <p align="center">
-        <code>TypeScript</code> · <code>React</code> · <code>Node.js</code> · <code>PWA</code>
+        <code>JavaScript</code> · <code>Raphael.js</code> · <code>SVG</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/SoyJhery/mapa-venezuela"><b>Ver Repositorio ↗</b></a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">📊 Automatización & Scripts de Cartera</h3>
+    <td colspan="2">
+      <h3 align="center">🔒 Próximos Lanzamientos en Preparación</h3>
       <p align="center">
-        Conjunto de herramientas automatizadas para conciliación, análisis de cartera y generación de fichas financieras, reduciendo tiempos manuales de procesamiento de reportes.
+        Actualmente preparando y auditando el código de aplicaciones de escritorio multiplataforma (Electron + React) y herramientas de gestión empresarial para su próximo lanzamiento en código abierto.
       </p>
       <p align="center">
-        <code>Python</code> · <code>FastAPI</code> · <code>Pandas</code> · <code>Excel Automation</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 APIs & Servicios Venezuela</h3>
-      <p align="center">
-        Servicios y utilidades públicas para integración de datos de entidades bancarias, georreferenciación y formatos locales.
-      </p>
-      <p align="center">
-        <code>Python</code> · <code>REST API</code> · <code>JSON</code>
+        <code>Electron</code> · <code>React</code> · <code>TypeScript</code> · <code>Python</code>
       </p>
     </td>
   </tr>
@@ -121,7 +118,7 @@ Apasionado por la arquitectura de software, la creación de aplicaciones de escr
 ### 📊 Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoyJhery&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de SoyJhery" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SoyJhery&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de SoyJhery" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyJhery&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
 </div>
 
